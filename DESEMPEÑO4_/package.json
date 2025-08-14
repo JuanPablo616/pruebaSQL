@@ -1,0 +1,21 @@
+{
+  "name": "pd_juanp_rojas_lovelace",
+  "version": "1.0.0",
+  "description": "CRUD con MySQL, CSV y Node.js",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
